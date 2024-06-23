@@ -1,0 +1,6 @@
+Read Me
+Username: admin
+Password: helloAlex
+API_URL: https://www.omdbapi.com?apikey=35aba7c
+$conn = mysqli_connect('feenix-mariadb.swin.edu.au', 's103518056', '240103', 's103518056_db');
+Website URL: https://mercury.swin.edu.au/cos30043/s103518056/103518056_Custom/?#/login
